@@ -1,0 +1,19 @@
+{
+    "app_id": "000000000000000000",
+
+    "line1" : "First line of text",
+    "line2" : "Second line",
+
+    "txt_li" : "Text on large image hover",
+    "txt_si" : "On small image",
+
+    "l_img" : "First image name",
+    "s_img" : "Second image name",
+
+    "button_name1" : "First Button text",
+    "button_name2" : "Second Button text",
+
+    "button_url1" : "https://first.url/",
+    "button_url2" : "https://second.url/"
+
+}
